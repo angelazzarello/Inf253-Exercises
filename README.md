@@ -1,1 +1,1 @@
-# Inf253-Exercises
+# INF253-Exercises
