@@ -9,6 +9,8 @@
     <p> </p>
 
     <img alt= "Book Brain" title="Book Brain" scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fthe-mission%2Fif-you-only-read-a-few-books-in-2018-read-these-89d03fc149c6&psig=AOvVaw2iw8Mn-71jr0LbB7Jkzlss&ust=1601821375720000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjApOTPmOwCFQAAAAAdAAAAABAP"/>
+
+    <img alt="My Future" title="My Future" src"../assets/images/books.jpg">
     <h2>My Links</h2>
     <ul>
       <li><a href="../index.html"> Link to homepage</a></li>
