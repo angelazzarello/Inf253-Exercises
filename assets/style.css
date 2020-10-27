@@ -1,12 +1,22 @@
   body {
     background-color: #EBEBEB
     font-family: arial,sans-serif;
+    color: #302F2F;
   }
 
-h1,h2 {
-    color: #84A98C
+.wrapper {
+  background-color: #ffffff;
+  width: 92%;
+  max-width: 0 auto;
+  padding: 12px 20px;
+}
+h1 {
+  margin-bottom: .5em;
 }
 
+h2 {
+  margin-bottom: .25em;
+}
 a {
     color: #59C3C3
 }
