@@ -1,0 +1,42 @@
+  <!DOCTYPE html>
+    <html>
+    <head>
+    <style>
+    .sansserif {
+      font-family: Arial
+    }
+    h1 {
+
+    }
+    body {
+      background-color: black;
+    }
+
+    div{
+      background-color: white;
+  width: 300px;
+  border: 10px solid black;
+  padding: 50px;
+  margin: 20px;
+}
+img {
+  float:right;
+}
+
+<h5 style= "color:Black" </h5>
+<il style="color"white"</il>
+
+.nav{
+  background-color:#B22222
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+<span style= "border: 10px solid red">THE 73RD ANNUAL OX ROAST</SPAN>
+
+
+</html>
+</head>
+</style>
