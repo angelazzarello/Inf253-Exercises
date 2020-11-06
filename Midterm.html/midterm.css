@@ -1,70 +1,32 @@
-body {
-     font-family: Times Roman;
-   font color: white
-   margin-right:auto;
-   margin-left:auto;
-   text-align: auto
 
-   }
-   h1 {
-   color:brown;'
+     body {
+      font-family: Times Roman;
+	  font color: white
+	  margin-right:auto;
+	  margin-left:auto;
+	  text-align: auto
 
-   }
-   body {
-     background-color: white;
-   }
+    }
+    h1 {
+		color:brown;'
+		font-size: 30
+    }
+    body {
+      background-color: white;
+    }
 
 .image{
- width:300px;
+	width:300px;
 }
 .together{
- float:left;
+	float:left;
 }
 .togethertwo{ float:left; }
-.boxone{
-      background-color: #ff8c69;
- width: 300px;
+ .boxone{
+	     background-color: #ff8c69;
+  width: 300px;
 padding: 20px;
- margin-right:5px;
- margin-bottom: 5px;
- margin-top: 5px;
- margin-left:5px;
-
-}
-.boxtwo{ background-color:#f25278;
- width:300px;
- padding: 20px;
- margin-bottom:5px;
   margin-right:5px;
+  margin-bottom: 5px;
   margin-top: 5px;
   margin-left:5px;
-
-}
-.boxthree{
-  background-color:blue;
-  width:300px;
-  padding: 20px;
-   margin-right:5px;
-   margin-bottom: 5px;
-   margin-top: 5px;
-   margin-left:5px;
-
-}
-.img{ clear:left;
-float:left;
-margin-right:5px;}
-
-.boxfour{background-color:orange; width:300px;
-padding: 20px;
-float:left;
- margin-right:5px;
- margin-bottom: 5px;
- margin-top: 5px;
- margin-left:5px;
-
-}
-#clear{ clear:left; }
-footer{ text-align:center; color:green; }
-
-h5{ color:black; }
-li { color:white;}
