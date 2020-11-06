@@ -1,42 +1,70 @@
-  <!DOCTYPE html>
-    <html>
-    <head>
-    <style>
-    .sansserif {
-      font-family: Arial
-    }
-    h1 {
+body {
+     font-family: Times Roman;
+   font color: white
+   margin-right:auto;
+   margin-left:auto;
+   text-align: auto
 
-    }
-    body {
-      background-color: black;
-    }
+   }
+   h1 {
+   color:brown;'
 
-    div{
-      background-color: white;
-  width: 300px;
-  border: 10px solid black;
-  padding: 50px;
-  margin: 20px;
+   }
+   body {
+     background-color: white;
+   }
+
+.image{
+ width:300px;
 }
-img {
-  float:right;
+.together{
+ float:left;
 }
+.togethertwo{ float:left; }
+.boxone{
+      background-color: #ff8c69;
+ width: 300px;
+padding: 20px;
+ margin-right:5px;
+ margin-bottom: 5px;
+ margin-top: 5px;
+ margin-left:5px;
 
-<h5 style= "color:Black" </h5>
-<il style="color"white"</il>
-
-.nav{
-  background-color:#B22222
-  list-style-type: none;
-  text-align: center;
-  margin: 0;
-  padding: 0;
 }
+.boxtwo{ background-color:#f25278;
+ width:300px;
+ padding: 20px;
+ margin-bottom:5px;
+  margin-right:5px;
+  margin-top: 5px;
+  margin-left:5px;
 
-<span style= "border: 10px solid red">THE 73RD ANNUAL OX ROAST</SPAN>
+}
+.boxthree{
+  background-color:blue;
+  width:300px;
+  padding: 20px;
+   margin-right:5px;
+   margin-bottom: 5px;
+   margin-top: 5px;
+   margin-left:5px;
 
+}
+.img{ clear:left;
+float:left;
+margin-right:5px;}
 
-</html>
-</head>
-</style>
+.boxfour{background-color:orange; width:300px;
+padding: 20px;
+float:left;
+ margin-right:5px;
+ margin-bottom: 5px;
+ margin-top: 5px;
+ margin-left:5px;
+
+}
+#clear{ clear:left; }
+footer{ text-align:center; color:green; }
+
+h5{ color:black; }
+li { color:white;}
