@@ -1,0 +1,59 @@
+body {
+    background-color:#DCDCDC;
+	background-image:url("https://www.stockvault.net/c/objects/paper-and-books");
+    font-family: "Times New Roman", Times, serif;
+    color: #191970;
+  }
+
+.wrapper {
+  background-color:#191970;
+  color:ffd700;
+  width: 98;
+  max-width: 800 auto;
+  padding: 12px 20px;
+}
+
+h1 {
+  margin-bottom: .5em;
+  font-size: 15;
+}
+
+h2 {
+  margin-bottom: .25em;
+  margin-top: 1em;
+}
+
+h3 {
+	margin-bottom:.25em;
+	margin-top:1em;
+}
+ {
+    color: #191970;
+}
+
+img {
+  max-width: 75;
+  height: auto;
+  float:left;
+}
+
+footer.wrapper {
+  text-align: center;
+  padding: 40px 20px;
+  border-top: 2px solid #191970;
+}
+@media all and (min-width:920px) {
+article,aside {
+float:left;
+}
+article{
+  width: 75%
+  padding-right: 20px;
+}
+
+aside{
+  width: 25%
+}
+aside h2:first-child {
+  margin-top:14px
+}
